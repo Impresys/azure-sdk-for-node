@@ -31,7 +31,7 @@
     }
   ],
   "dependencies": {
-    "azure-common": "0.9.1-pre.2",
+    "azure-common": "git+https://github.com/Impresys/azure-sdk-for-node.git#azure-common",
     "azure-mgmt-compute": "0.9.1-pre.2",
     "azure-mgmt": "0.9.1-pre.2",
     "azure-mgmt-vnet": "0.9.1-pre.2",
